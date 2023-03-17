@@ -1,0 +1,29 @@
+/* Include your style in here for all pages. 
+Extra style for cssdemo.html can be added in cssdemo.css */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+body {
+  font-family: DejaVu Sans Mono, monospace;
+  background-color: lightblue;
+  text-align: center;
+  }
+
+.footer {
+  color: rgb(0, 0, 0);
+  text-align: left;
+  position: absolute;
+  bottom: 0;
+  background-color: lightgrey;
+  height: 125px;
+  width: 1750px;
+}
+
+li {
+}
+
+  
