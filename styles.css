@@ -27,4 +27,17 @@ li {
   list-style-type: none;
 }
 
-  
+.header {
+  font-weight: bold;
+}
+
+.resize {
+  height: auto;
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
